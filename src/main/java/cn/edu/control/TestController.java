@@ -2,8 +2,8 @@ package cn.edu.control;
 
 public class TestController {
 	public static void main(String[] args) {
-		System.out.println("µÚÒ»´ÎĞŞ¸Ä´òÓ¡Óï¾ä");
-		System.out.println("µÚ¶ş´ÎĞŞ¸Ä´òÓ¡Óï¾ä");
+		System.out.println("ç¬¬ä¸€æ¬¡ä¿®æ”¹æ‰“å°è¯­å¥");
+		System.out.println("ç¬¬äºŒæ¬¡ä¿®æ”¹æ‰“å°è¯­å¥");
 	}
 
 }
